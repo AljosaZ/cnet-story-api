@@ -1,0 +1,16 @@
+{
+  "name": "cleanshelf_rest_api",
+  "version": "1.0.0",
+  "description": "cleanshelf test rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Aljosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "puppeteer": "^5.2.1"
+  }
+}
